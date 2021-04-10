@@ -7,3 +7,4 @@
 	path = duckdb
 	url = https://github.com/cwida/duckdb
 	shallow = true
+	registered = true
